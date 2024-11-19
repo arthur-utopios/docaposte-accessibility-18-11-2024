@@ -8,13 +8,7 @@
 | [lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)                          | Outil de diagnostique d'un site web présent sur les navigateurs chromium |
 | [devtools-guide-chromium](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/accessibility/reference) | Liste des outils de chrome à utiliser pour vérifier l'accessibilité      |
 
-## Les astuces
-
-Simuler les différents rendus d'un site web :
-
-1. Ouvrir la console développeur
-2. Ouvrir l'outil de rendu
-3. Émuler les déficiences visuelles
+| [windows accessibility shortcuts](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-for-accessibility-021bcb62-45c8-e4ef-1e4f-41b8c1fc87fd#WindowsVersion=Windows_10) | Liste des raccourcis à utiliser sur Windows pour l'accessibilité |
 
 ## CSS
 
@@ -34,13 +28,13 @@ Simuler les différents rendus d'un site web :
    2. Aller dans l'onglet `Aperçu CSS` et lancer une analyse
    3. Inspecter différents éléments HTML de la page avec le sélecteur d'éléments `CTRL + SHIFT + C`
 3. Dans l'onglet `Rendu` émuler les déficiences visuelles et vérifier les contrastes de couleurs
-4. Utiliser les extensions suivantes selon le besoin :
+4. Utiliser les extensions et outils suivantes selon le besoin :
+   - [Validator W3C](https://validator.w3.org/)
+   - [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/)
    - [WCAG Color Contrast Checker](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en)
    - [Headings Map](https://chromewebstore.google.com/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en)
    - [Wave Evaluation DevTools](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en)
    - [Accessibility Insight for Web](https://accessibilityinsights.io/)
-   - [Colour Contrast Analyser](https://www.tpgi.com/color-contrast-checker/)
-   - [Validator W3C](https://validator.w3.org/)
 
 ### Analyse manuelle
 
