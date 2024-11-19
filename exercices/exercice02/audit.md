@@ -54,7 +54,7 @@ date: 19-11-2024
       aria-autocomplete="both"
       aria-label="search"
       aria-multiline="false"
-      role="textbox"
+      role=""
       value=""
     />
   </div>

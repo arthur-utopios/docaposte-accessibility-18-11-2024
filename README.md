@@ -2,13 +2,18 @@
 
 ## Sites web
 
-| Ressource                                                                                                                   | Description                                                              |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [validator.w3.org](https://validator.w3.org/)                                                                               | Permet de vérifier que la structure HTML respecte les conventions        |
-| [lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)                          | Outil de diagnostique d'un site web présent sur les navigateurs chromium |
-| [devtools-guide-chromium](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/accessibility/reference) | Liste des outils de chrome à utiliser pour vérifier l'accessibilité      |
-
-| [windows accessibility shortcuts](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-for-accessibility-021bcb62-45c8-e4ef-1e4f-41b8c1fc87fd#WindowsVersion=Windows_10) | Liste des raccourcis à utiliser sur Windows pour l'accessibilité |
+| Ressource                                                                                                                                                                                  | Description                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| [validator.w3.org](https://validator.w3.org/)                                                                                                                                              | Permet de vérifier que la structure HTML respecte les conventions        |
+| [lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)                                                                                         | Outil de diagnostique d'un site web présent sur les navigateurs chromium |
+| [devtools-guide-chromium](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/accessibility/reference)                                                                | Liste des outils de chrome à utiliser pour vérifier l'accessibilité      |
+| [windows accessibility shortcuts](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-for-accessibility-021bcb62-45c8-e4ef-1e4f-41b8c1fc87fd#WindowsVersion=Windows_10) | Liste des raccourcis à utiliser sur Windows pour l'accessibilité         |
+| [design.numerique.gouv](https://design.numerique.gouv.fr/)                                                                                                                                 | Parle d'accessibilité, mémo dev et designer                              |
+| [patterns-aria](https://www.w3.org/WAI/ARIA/apg/patterns/)                                                                                                                                 | Liste d'exemples de patterns ARIA accessible                             |
+| [react-aria-live](https://www.npmjs.com/package/react-aria-live)                                                                                                                           | library react pour faciliter l'utilisation de l'attribut `aria-live`     |
+| [a11yproject](https://www.a11yproject.com/)                                                                                                                                                | Nombreuses références sur l'accessibilité et une checklist complète !    |
+| [inclusive-components](https://book.inclusive-components.design/)                                                                                                                          | Livre sur la réalisation de composants accessibles                       |
+| [criteres-et-tests-rgaa](https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/)                                                                                               | L'ensemble des critères testés sur le RGAA                               |
 
 ## CSS
 
