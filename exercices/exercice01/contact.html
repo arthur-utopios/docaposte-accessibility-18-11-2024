@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Le site internet du docteur Michel Delacroix">
+    <meta name="keywords" content="médecin">
+    <link rel="stylesheet" href="./styles/styles.css">
+    <title>Page d'accueil - Dr Michel Delacroix</title>
+</head>
+
+<body>
+    <header>
+        <nav class="menu">
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">Horaires</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Contacter le docteur</h1>
+        <section class="flex-column">
+            <form action="#" method="post">
+                <label for="firstname">Prénom</label>
+                <input type="text" name="firstname" id="firstname" placeholder="Jean">
+
+                <label for="lastname">Nom</label>
+                <input type="text" name="lastname" id="lastname" placeholder="Michel">
+
+
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" placeholder="jean.michel@gmail.com">
+
+                <label for="phone">Téléphone</label>
+                <input type="tel" name="phone" id="phone" placeholder="0610101010">
+
+                <label for="message">Votre message :</label>
+                <textarea name="message" id="message" cols="20" placeholder="Votre message ..."></textarea>
+
+                <button type="submit">Envoyer</button>
+            </form>
+        </section>
+
+        <section>
+            <h2>Nous trouver</h2>
+            <div class="map">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d447.3402228295148!2d3.0551724120509496!3d50.63569058549138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d585c99c0fdb%3A0x3fef551c937e1043!2sSmeno%2FServices%20Administratifs!5e0!3m2!1sfr!2sfr!4v1731938764220!5m2!1sfr!2sfr"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                    title="Carte indicant l'emplacement du cabinet du Docteur Michel Delacroix"></iframe>
+            </div>
+
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Docteur Michel Delacroix - Tous droits réservés.</p>
+    </footer>
+</body>
